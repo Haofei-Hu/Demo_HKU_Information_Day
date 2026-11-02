@@ -1,4 +1,4 @@
-# HKU Open Day · SUPER UAV Demonstration
+# HKU Information Day · UAV Demonstration
 
 An indoor localization, planning, and obstacle-avoidance demonstration built on **Livox MID360 → FAST_LIO → SUPER → MAVROS → PX4**.
 
